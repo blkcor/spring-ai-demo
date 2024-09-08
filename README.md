@@ -1,4 +1,4 @@
-Today, let's play with [https://spring.io/projects/spring-ai](README.md).
+Today, let's play with [SpringAI](https://spring.io/projects/spring-ai).
 
 ## feature
 
